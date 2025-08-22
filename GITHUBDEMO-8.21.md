@@ -11,3 +11,8 @@ This is a link: [To p5js](https://p5js.org).
 This text is **BOLD**
 
 This text is *italicized*
+
+
+### This is an image
+
+![This is a bear](https://m.media-amazon.com/images/I/71F+Wog+n4L._UF350,350_QL80_.jpg)
