@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  background-color: #333;
+text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+}
+
+canvas {
+  display: block;
+}
+
+.sketch{
+    margin-left: 20px;
+    margin-right: 20px;
+}
