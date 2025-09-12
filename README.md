@@ -23,6 +23,4 @@ This text is *italicized*
 
 This is my [Randomizer In-Class Exercise](Exercises/In-Class Exercise Character Scene Randomizer/index.html)
 
-//Visit my [Journal](Journal)//
-
-//Visit my [Exercises](Exercises)//
+This ismy [Project 1: Interactive Randomize](Project 1 - Randomizer/index.html)
