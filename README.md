@@ -18,3 +18,5 @@ This text is *italicized*
 ![This is a bear](https://m.media-amazon.com/images/I/71F+Wog+n4L._UF350,350_QL80_.jpg)
 
 Visit my [Journal](Journal)
+
+Visit my [Exercises](Exercises)
