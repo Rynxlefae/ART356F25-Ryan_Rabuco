@@ -4,7 +4,7 @@ This repo will contain all my readings and projects for the ART 356 Course.
 
 MORE TEXT RYAHH
 
-This is a link: [To p5js](https://p5js.org).
+This is a link: [of this site.]([https://p5js.org](https://rynxlefae.github.io/ART356F25-Ryan_Rabuco)).
 
 ## This is text styles
 
