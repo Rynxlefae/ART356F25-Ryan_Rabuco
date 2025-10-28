@@ -26,3 +26,5 @@ This is my [Randomizer In-Class Exercise](Exercises/In-Class Exercise Character 
 This is my [Mini Data Viz In-Class Exercise 2](Exercises/In-Class Exercise 2 - Mini Data Viz/index.html) 
 
 This is my [Project 1: Interactive Randomize](Project 1 - Randomizer/index.html)
+
+This is my [Project 2: Data Visualization](Project 2 - Data Visualization/index.html0
