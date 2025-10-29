@@ -1,4 +1,4 @@
-html, body {
+html, body, a {
   margin: 0;
   padding: 0;
   color: #ffffff;
@@ -11,4 +11,8 @@ html, body {
 }
 canvas {
   display: block;
+}
+
+.link {
+  color: #00ffff;
 }
