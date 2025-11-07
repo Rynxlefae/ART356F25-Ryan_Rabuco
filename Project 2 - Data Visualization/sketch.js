@@ -21,7 +21,7 @@ currentCountyName = counties[currentCounty];
 }
 //Base Drawing
 function draw() {
-background(100, 100, 255);
+background(255);
 let countyData = alabamaCounties[currentCounty];
 if (countyData.newCases.length > 0) {
   let maxNewCases = max(countyData.newCases);
@@ -43,7 +43,6 @@ function showCountyData(countyData, maxNewCases, maxCumulativeCases) {
   text("Cumulative Cases: " + countyData.cumulativeCases[countyData.cumulativeCases.length - 1], 20, 40);
   text("New Cases: " + (hoveredNewCases !== null ? hoveredNewCases : ''), 20, 60);
   text("Date: " + (hoveredDate !== null ? hoveredDate : ''), 20, 80);
-  textSize(12)
   text("Cycle Counties: Left/Right Arrow", 20, 100)
 }
 //Data Display
