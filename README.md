@@ -28,3 +28,5 @@ This is my [Mini Data Viz In-Class Exercise 2](Exercises/In-Class Exercise 2 - M
 This is my [Project 1: Interactive Randomize](Project 1 - Randomizer/index.html)
 
 This is my [Project 2: Data Visualization](Project 2 - Data Visualization/index.html)
+
+This is my [Project 3: Codezy Room](Project 3b - Screen Room/index.html)
