@@ -9,7 +9,6 @@ This is a link [of this site.](https://rynxlefae.github.io/ART356F25-Ryan_Rabuco
 It's also this [https://rynxlefae.github.io/ART356F25-Ryan_Rabuco](https://rynxlefae.github.io/ART356F25-Ryan_Rabuco).
 
 
-
 ## This is text styles
 
 This text is **BOLD**
