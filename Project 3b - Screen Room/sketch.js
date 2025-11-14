@@ -387,16 +387,27 @@ let m = minute();
 let s = second();
 let mo = month();
 let d = day();
-  noStroke();
-  fill(255);
-  textFont(latoFont); 
-  textSize(10);
-  textAlign(CENTER);
-  text(mo + " / " + d, 730, 475);
-  textSize(20);
-  text(nf(h, 2) + ":" + nf(m, 2) + ":" + nf(s, 2), 730, 465);
+let period = "AM";
+
+if (h >= 12) {
+  period = "PM";
 }
-}680, 440, 519 / 5, 208 / 5
+if (h > 12) {
+  h = h - 12; 
+}
+if (h === 0) {
+  h = 12;
+}
+noStroke();
+fill(255);
+textFont(latoFont); 
+textSize(10);
+textAlign(CENTER);
+text(mo + " / " + d, 730, 475);
+textSize(20);
+text(nf(h, 2) + ":" + nf(m, 2) + ":" + period, 730, 465);
+}
+}
 
 //Rain Class
 function rainfall(){
